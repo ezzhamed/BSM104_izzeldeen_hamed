@@ -1,9 +1,12 @@
-x y z | f g
-0 0 0 | 0 0
-0 0 1 | 1 0
-0 1 0 | 0 1
-0 1 1 | 0 0
-1 0 0 | 1 0
-1 0 1 | 0 0
-1 1 0 | 0 1
-1 1 1 | 1 1
+kitap
+kalem
+bartin
+universite
+kitap
+masa
+sira
+bilgisayar
+fare
+kalem
+masas
+sira
