@@ -2,5 +2,4 @@
 Algoritmalar ve Programlama 2
 UygulamaDers
 
-#Izzeldeen Hamed
-#20670310069
+# Izzeldeen Hamed 20670310069
