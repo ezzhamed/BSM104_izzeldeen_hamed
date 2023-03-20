@@ -1,4 +1,4 @@
-public class pount {
+public class point {
     int x, y;
 
     public double distanceFromOrigin(int x, int y){
